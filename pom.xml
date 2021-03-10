@@ -6,7 +6,7 @@
 
   <groupId>ru.javafortesters.fruitbox</groupId>
   <artifactId>FruitBox</artifactId>
-  <version>1.0-SNAPSHOT</version>
+		  <version>1.0-SNAPSHOT</version>
 
   <name>FruitBox</name>
 
